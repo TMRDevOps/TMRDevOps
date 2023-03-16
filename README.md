@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TMRDevOps (call me Terry)
-- 💻 DevOps engineer with (8) years experience
-- :octocat: Linux | GCP | Azzure | Git |Github | Mavern....
+- 💻 DevOps engineer with (6) years experience
+- :octocat: Linux | GCP | Azzure | Git | Mavern | JUnit | Selenium | Jenkins | Docker | Kubernetes | Ansible | Terraform |Nexus 
 - 📟 reach me via email...
 
 <!---
